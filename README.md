@@ -1,4 +1,4 @@
-# $\textbf{\color{#4266f5} {Réalisez\ une\ étude\ de\ santé\ publique\ avec\ python}}$
+# $\textbf{\color{#4266f5} {Etude\ de\ santé\ publique\ avec\ python}}$
 ## Objectif
 Réaliser une étude sur le thème de la sous-nutrition dans le monde avec des donnes de la Food and Agriculture Organisation of the United Nations (FAO).<br>
 ## Competences 
